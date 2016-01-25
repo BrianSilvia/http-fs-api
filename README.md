@@ -533,7 +533,7 @@ The list of actions per method are as follows:
   ```
 
   Response:
-  `http Status 200`
+  `HTTP Status 200`
 
   Errors
   + `400` - Action-Resource type conflict
